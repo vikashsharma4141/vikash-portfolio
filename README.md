@@ -1,6 +1,6 @@
-# Virat's Portfolio
+# Vikash's Portfolio
 
-Welcome to Virat's Portfolio! This project showcases my work and allows visitors to navigate seamlessly through different sections, including a contact form for inquiries.
+Welcome to Vikash's Portfolio! This project showcases my work and allows visitors to navigate seamlessly through different sections, including a contact form for inquiries.
 
 ## Features
 
